@@ -28,8 +28,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "MENUS",
+    "path": "folders/Objects/MENUS.yy",
   },
   "resourceVersion": "1.0",
   "name": "objStart",

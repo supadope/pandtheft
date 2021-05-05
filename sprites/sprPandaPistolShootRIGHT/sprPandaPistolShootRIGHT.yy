@@ -26,8 +26,8 @@
   "frames": [
     {"compositeImage":{"FrameId":{"name":"30df504a-9b3e-4395-9aa7-279d07244fc2","path":"sprites/sprPandaPistolShootRIGHT/sprPandaPistolShootRIGHT.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"30df504a-9b3e-4395-9aa7-279d07244fc2","path":"sprites/sprPandaPistolShootRIGHT/sprPandaPistolShootRIGHT.yy",},"LayerId":{"name":"c673c52b-db5b-4247-84fe-c3018d200b79","path":"sprites/sprPandaPistolShootRIGHT/sprPandaPistolShootRIGHT.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"30df504a-9b3e-4395-9aa7-279d07244fc2","path":"sprites/sprPandaPistolShootRIGHT/sprPandaPistolShootRIGHT.yy",},"LayerId":{"name":"385d9aba-a87b-424f-a6dd-3794201f3d51","path":"sprites/sprPandaPistolShootRIGHT/sprPandaPistolShootRIGHT.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"30df504a-9b3e-4395-9aa7-279d07244fc2","path":"sprites/sprPandaPistolShootRIGHT/sprPandaPistolShootRIGHT.yy",},"LayerId":{"name":"19f645d0-6cc6-4ca5-8cf6-45d837627165","path":"sprites/sprPandaPistolShootRIGHT/sprPandaPistolShootRIGHT.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"30df504a-9b3e-4395-9aa7-279d07244fc2","path":"sprites/sprPandaPistolShootRIGHT/sprPandaPistolShootRIGHT.yy",},"LayerId":{"name":"","path":"",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"30df504a-9b3e-4395-9aa7-279d07244fc2","path":"sprites/sprPandaPistolShootRIGHT/sprPandaPistolShootRIGHT.yy",},"LayerId":{"name":"","path":"",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"30df504a-9b3e-4395-9aa7-279d07244fc2","path":"sprites/sprPandaPistolShootRIGHT/sprPandaPistolShootRIGHT.yy",},"LayerId":{"name":"e1a42be0-6746-4e49-8535-799b9956b073","path":"sprites/sprPandaPistolShootRIGHT/sprPandaPistolShootRIGHT.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"sprPandaPistolShootRIGHT","path":"sprites/sprPandaPistolShootRIGHT/sprPandaPistolShootRIGHT.yy",},"resourceVersion":"1.0","name":"30df504a-9b3e-4395-9aa7-279d07244fc2","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"89d7229d-6c3d-4a0d-a9e5-78a3c4e1b832","path":"sprites/sprPandaPistolShootRIGHT/sprPandaPistolShootRIGHT.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
@@ -68,7 +68,7 @@
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
     "xorigin": 29,
-    "yorigin": 19,
+    "yorigin": 28,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sprPandaPistolShootRIGHT","path":"sprites/sprPandaPistolShootRIGHT/sprPandaPistolShootRIGHT.yy",},
