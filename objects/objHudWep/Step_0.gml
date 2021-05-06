@@ -12,7 +12,7 @@ y = objPandaPistol.y;
 }
 
 if instance_exists(objPandaSMG){
-
+sprite_index = sprHudSMG
 x = objPandaSMG.x;
 y = objPandaSMG.y;
 }
