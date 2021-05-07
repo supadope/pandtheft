@@ -25,10 +25,10 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"30df504a-9b3e-4395-9aa7-279d07244fc2","path":"sprites/sprPandaSMGIDLERight/sprPandaSMGIDLERight.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"30df504a-9b3e-4395-9aa7-279d07244fc2","path":"sprites/sprPandaSMGIDLERight/sprPandaSMGIDLERight.yy",},"LayerId":{"name":"028f2acf-0ffd-4c80-ad7d-d614ee97289b","path":"sprites/sprPandaSMGIDLERight/sprPandaSMGIDLERight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"30df504a-9b3e-4395-9aa7-279d07244fc2","path":"sprites/sprPandaSMGIDLERight/sprPandaSMGIDLERight.yy",},"LayerId":{"name":"c673c52b-db5b-4247-84fe-c3018d200b79","path":"sprites/sprPandaSMGIDLERight/sprPandaSMGIDLERight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"30df504a-9b3e-4395-9aa7-279d07244fc2","path":"sprites/sprPandaSMGIDLERight/sprPandaSMGIDLERight.yy",},"LayerId":{"name":"385d9aba-a87b-424f-a6dd-3794201f3d51","path":"sprites/sprPandaSMGIDLERight/sprPandaSMGIDLERight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"30df504a-9b3e-4395-9aa7-279d07244fc2","path":"sprites/sprPandaSMGIDLERight/sprPandaSMGIDLERight.yy",},"LayerId":{"name":"19f645d0-6cc6-4ca5-8cf6-45d837627165","path":"sprites/sprPandaSMGIDLERight/sprPandaSMGIDLERight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"30df504a-9b3e-4395-9aa7-279d07244fc2","path":"sprites/sprPandaSMGIDLERight/sprPandaSMGIDLERight.yy",},"LayerId":{"name":"028f2acf-0ffd-4c80-ad7d-d614ee97289b","path":"sprites/sprPandaSMGIDLERight/sprPandaSMGIDLERight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"sprPandaSMGIDLERight","path":"sprites/sprPandaSMGIDLERight/sprPandaSMGIDLERight.yy",},"resourceVersion":"1.0","name":"30df504a-9b3e-4395-9aa7-279d07244fc2","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {

@@ -15,3 +15,9 @@ if instance_exists(objPandaSMG){
 x = objPandaSMG.x;
 y = objPandaSMG.y;
 }
+
+if instance_exists(objPandaRifle){
+
+x = objPandaRifle.x;
+y = objPandaRifle.y;
+}

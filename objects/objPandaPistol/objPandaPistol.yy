@@ -27,6 +27,7 @@
     {"isDnD":true,"eventNum":49,"eventType":10,"collisionObjectId":null,"parent":{"name":"objPandaPistol","path":"objects/objPandaPistol/objPandaPistol.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":7,"eventType":7,"collisionObjectId":null,"parent":{"name":"objPandaPistol","path":"objects/objPandaPistol/objPandaPistol.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":51,"eventType":10,"collisionObjectId":null,"parent":{"name":"objPandaPistol","path":"objects/objPandaPistol/objPandaPistol.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":52,"eventType":10,"collisionObjectId":null,"parent":{"name":"objPandaPistol","path":"objects/objPandaPistol/objPandaPistol.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

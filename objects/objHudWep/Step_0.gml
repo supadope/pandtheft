@@ -16,3 +16,9 @@ sprite_index = sprHudSMG
 x = objPandaSMG.x;
 y = objPandaSMG.y;
 }
+
+if instance_exists(objPandaRifle){
+sprite_index = sprHudRifle
+x = objPandaRifle.x;
+y = objPandaRifle.y;
+}

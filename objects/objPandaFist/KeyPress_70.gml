@@ -30,3 +30,23 @@ if (objPandaFist.sprite_index == sprPandaFistIDLEDown){
 	   audio_play_sound(punchwoosh,10,false)
 }
 }
+
+//punch
+{
+if (objPandaFist.sprite_index == sprPandaFistIPunchUP && place_meeting(x,y,objLecon1)){
+	audio_play_sound(punchHit,10,false)
+	audio_play_sound(OWOMG,10,false)
+}
+if (objPandaFist.sprite_index == sprPandaFistIPunchDown && place_meeting(x,y,objLecon1)){
+	audio_play_sound(punchHit,10,false)
+	audio_play_sound(OWOMG,10,false)
+}
+if (objPandaFist.sprite_index == sprPandaFistPunchRight && place_meeting(x,y,objLecon1)){
+	audio_play_sound(punchHit,10,false)
+	audio_play_sound(OWOMG,10,false)
+}
+if (objPandaFist.sprite_index == sprPandaFistPunchLeft && place_meeting(x,y,objLecon1)){
+	audio_play_sound(punchHit,10,false)
+	audio_play_sound(OWOMG,10,false)
+}
+}
