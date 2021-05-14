@@ -45,3 +45,35 @@ if (objPandaSMG.sprite_index == sprPandaSMGDown){
 	   	   audio_stop_sound(SMG)
 }
 }
+
+//punch
+{
+if (objPandaSMG.sprite_index == sprPandaSMGShootDown && place_meeting(x,y,objLecon1)){
+	audio_play_sound(zigScreamHalf,10,false)
+	if instance_exists(objLecon1){
+		   objLecon1.sprite_index = sprLecon1Die 
+	        objLecon1.speed = 0
+	   }
+}
+if (objPandaSMG.sprite_index == sprPandaSMGShootUp && place_meeting(x,y,objLecon1)){
+	audio_play_sound(zigScreamHalf,10,false)
+	if instance_exists(objLecon1){
+		   objLecon1.sprite_index = sprLecon1Die 
+	        objLecon1.speed = 0
+	   }
+}
+if (objPandaSMG.sprite_index == sprPandaSMGShootRight && place_meeting(x,y,objLecon1)){
+	audio_play_sound(zigScreamHalf,10,false)
+	if instance_exists(objLecon1){
+		   objLecon1.sprite_index = sprLecon1Die 
+	        objLecon1.speed = 0
+	   }
+}
+if (objPandaSMG.sprite_index == sprPandaSMGShootLeft && place_meeting(x,y,objLecon1)){
+	audio_play_sound(zigScreamHalf,10,false)
+	if instance_exists(objLecon1){
+		   objLecon1.sprite_index = sprLecon1Die 
+	        objLecon1.speed = 0
+	   }
+}
+}

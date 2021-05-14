@@ -30,19 +30,3 @@ if (objPandaSMG.sprite_index == sprPandaSMGIDLEDown){
 	   audio_play_sound(SMG,10,true)
 }
 }
-
-//punch
-{
-if (objPandaSMG.sprite_index == sprPandaSMGShootDown && place_meeting(x,y,objLecon1)){
-	audio_play_sound(zigScreamHalf,10,false)
-}
-if (objPandaSMG.sprite_index == sprPandaSMGShootUp && place_meeting(x,y,objLecon1)){
-	audio_play_sound(zigScreamHalf,10,false)
-}
-if (objPandaSMG.sprite_index == sprPandaSMGShootRight && place_meeting(x,y,objLecon1)){
-	audio_play_sound(zigScreamHalf,10,false)
-}
-if (objPandaSMG.sprite_index == sprPandaSMGShootLeft && place_meeting(x,y,objLecon1)){
-	audio_play_sound(zigScreamHalf,10,false)
-}
-}

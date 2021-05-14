@@ -31,18 +31,34 @@ if (objPandaPistol.sprite_index == sprPandaPistolIDLEDown){
 }
 }
 
-//punch
+//pistol
 {
 if (objPandaPistol.sprite_index == sprPandaPistolShootDOWN && place_meeting(x,y,objLecon1)){
 	audio_play_sound(zigScreamHalf,10,false)
+	if instance_exists(objLecon1){
+		   objLecon1.sprite_index = sprLecon1Die 
+	        objLecon1.speed = 0
+	   }
 }
 if (objPandaPistol.sprite_index == sprPandaPistolShootUP && place_meeting(x,y,objLecon1)){
 	audio_play_sound(zigScreamHalf,10,false)
+	if instance_exists(objLecon1){
+		   objLecon1.sprite_index = sprLecon1Die 
+	        objLecon1.speed = 0
+	   }
 }
 if (objPandaPistol.sprite_index == sprPandaPistolShootRIGHT && place_meeting(x,y,objLecon1)){
 	audio_play_sound(zigScreamHalf,10,false)
+	if instance_exists(objLecon1){
+		   objLecon1.sprite_index = sprLecon1Die 
+	        objLecon1.speed = 0
+	   }
 }
 if (objPandaPistol.sprite_index == sprPandaPistolShootLEFT && place_meeting(x,y,objLecon1)){
 	audio_play_sound(zigScreamHalf,10,false)
+	if instance_exists(objLecon1){
+		   objLecon1.sprite_index = sprLecon1Die 
+	        objLecon1.speed = 0
+	   }
 }
 }

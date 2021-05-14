@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "SMG.mp3",
-  "duration": 0.422959,
+  "duration": 0.344592,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

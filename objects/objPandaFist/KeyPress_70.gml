@@ -36,17 +36,37 @@ if (objPandaFist.sprite_index == sprPandaFistIDLEDown){
 if (objPandaFist.sprite_index == sprPandaFistIPunchUP && place_meeting(x,y,objLecon1)){
 	audio_play_sound(punchHit,10,false)
 	audio_play_sound(OWOMG,10,false)
+	global.punchedl1 += 1
+	if (instance_exists(objLecon1) && global.punchedl1 == 3){
+		objLecon1.sprite_index = sprLecon1DownB3
+		speed = 0
+	}
 }
 if (objPandaFist.sprite_index == sprPandaFistIPunchDown && place_meeting(x,y,objLecon1)){
 	audio_play_sound(punchHit,10,false)
 	audio_play_sound(OWOMG,10,false)
+	global.punchedl1 += 1
+	if (instance_exists(objLecon1) && global.punchedl1 == 3){
+		objLecon1.sprite_index = sprLecon1DownB3
+		speed = 0
+	}
 }
 if (objPandaFist.sprite_index == sprPandaFistPunchRight && place_meeting(x,y,objLecon1)){
 	audio_play_sound(punchHit,10,false)
 	audio_play_sound(OWOMG,10,false)
+	global.punchedl1 += 1
+	if (instance_exists(objLecon1) && global.punchedl1 == 3){
+		objLecon1.sprite_index = sprLecon1DownB3
+		speed = 0
+	}
 }
 if (objPandaFist.sprite_index == sprPandaFistPunchLeft && place_meeting(x,y,objLecon1)){
 	audio_play_sound(punchHit,10,false)
 	audio_play_sound(OWOMG,10,false)
+	global.punchedl1 += 1
+	if (instance_exists(objLecon1) && global.punchedl1 == 3){
+		objLecon1.sprite_index = sprLecon1DownB3
+		speed = 0
+	}
 }
 }

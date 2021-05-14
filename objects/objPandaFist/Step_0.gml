@@ -15,3 +15,4 @@ if keyboard_check_released(ord("S")) {sprite_index = sprPandaFistIDLEDown;}
 if keyboard_check_released(ord("W")) {sprite_index = sprPandaFistIDLE;}
 if keyboard_check_released(ord("A")) {sprite_index = sprPandaFistIDLELeft;}
 if keyboard_check_released(ord("D")) {sprite_index = sprPandaFistIDLERight;}
+

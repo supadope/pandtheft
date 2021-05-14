@@ -1,0 +1,1 @@
+room_goto(rmHelp); room_persistent = true;
