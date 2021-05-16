@@ -21,6 +21,7 @@
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"objCamFollow","path":"objects/objCamFollow/objCamFollow.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"objCamFollow","path":"objects/objCamFollow/objCamFollow.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":72,"eventType":9,"collisionObjectId":null,"parent":{"name":"objCamFollow","path":"objects/objCamFollow/objCamFollow.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":71,"eventType":10,"collisionObjectId":null,"parent":{"name":"objCamFollow","path":"objects/objCamFollow/objCamFollow.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
