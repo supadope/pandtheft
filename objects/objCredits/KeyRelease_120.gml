@@ -1,0 +1,1 @@
+room_goto(rmPlayArea); room_persistent = true

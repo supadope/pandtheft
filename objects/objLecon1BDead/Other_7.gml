@@ -1,1 +1,0 @@
-instance_create_layer(objLecon1BDead.x, objLecon1BDead.y, "Drops", objMoney);

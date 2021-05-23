@@ -1,0 +1,1 @@
+room_goto(rmCredits); room_persistent = true;

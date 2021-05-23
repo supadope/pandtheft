@@ -21,13 +21,14 @@
     "path": "texturegroups/Default",
   },
   "swatchColours": null,
-  "gridX": 0,
-  "gridY": 0,
+  "gridX": 64,
+  "gridY": 64,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"fabbaaca-af5f-41b5-b63e-87230c73a87f","path":"sprites/sprPlayArea/sprPlayArea.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"fabbaaca-af5f-41b5-b63e-87230c73a87f","path":"sprites/sprPlayArea/sprPlayArea.yy",},"LayerId":{"name":"dbc547b9-3fa1-4452-b21f-851ec9ce5c69","path":"sprites/sprPlayArea/sprPlayArea.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"fabbaaca-af5f-41b5-b63e-87230c73a87f","path":"sprites/sprPlayArea/sprPlayArea.yy",},"LayerId":{"name":"2a6c0b16-7e9f-4888-a641-7777a12872d2","path":"sprites/sprPlayArea/sprPlayArea.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"fabbaaca-af5f-41b5-b63e-87230c73a87f","path":"sprites/sprPlayArea/sprPlayArea.yy",},"LayerId":{"name":"f25bfd17-8b71-423e-abd8-346eb5d5faac","path":"sprites/sprPlayArea/sprPlayArea.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"fabbaaca-af5f-41b5-b63e-87230c73a87f","path":"sprites/sprPlayArea/sprPlayArea.yy",},"LayerId":{"name":"97b2a744-6c9d-4195-a72e-40ff7a3d218d","path":"sprites/sprPlayArea/sprPlayArea.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"fabbaaca-af5f-41b5-b63e-87230c73a87f","path":"sprites/sprPlayArea/sprPlayArea.yy",},"LayerId":{"name":"fdc5b266-39ac-4cd2-a280-c64b68501f1b","path":"sprites/sprPlayArea/sprPlayArea.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"fabbaaca-af5f-41b5-b63e-87230c73a87f","path":"sprites/sprPlayArea/sprPlayArea.yy",},"LayerId":{"name":"aee557fc-8ba1-4334-8a39-524264343bd7","path":"sprites/sprPlayArea/sprPlayArea.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"fabbaaca-af5f-41b5-b63e-87230c73a87f","path":"sprites/sprPlayArea/sprPlayArea.yy",},"LayerId":{"name":"a02cc930-fddb-43e3-bd34-e9312bc890d5","path":"sprites/sprPlayArea/sprPlayArea.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"sprPlayArea","path":"sprites/sprPlayArea/sprPlayArea.yy",},"resourceVersion":"1.0","name":"fabbaaca-af5f-41b5-b63e-87230c73a87f","tags":[],"resourceType":"GMSpriteFrame",},
   ],
@@ -69,8 +70,9 @@
   },
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"SCALE","resourceVersion":"1.0","name":"dbc547b9-3fa1-4452-b21f-851ec9ce5c69","tags":[],"resourceType":"GMImageLayer",},
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 3","resourceVersion":"1.0","name":"2a6c0b16-7e9f-4888-a641-7777a12872d2","tags":[],"resourceType":"GMImageLayer",},
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"f25bfd17-8b71-423e-abd8-346eb5d5faac","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":false,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 2","resourceVersion":"1.0","name":"97b2a744-6c9d-4195-a72e-40ff7a3d218d","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 3","resourceVersion":"1.0","name":"fdc5b266-39ac-4cd2-a280-c64b68501f1b","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"aee557fc-8ba1-4334-8a39-524264343bd7","tags":[],"resourceType":"GMImageLayer",},
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 2 (2)","resourceVersion":"1.0","name":"a02cc930-fddb-43e3-bd34-e9312bc890d5","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {

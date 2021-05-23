@@ -1,0 +1,1 @@
+global.minigun = 0

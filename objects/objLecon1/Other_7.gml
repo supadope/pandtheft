@@ -4,6 +4,6 @@ if objLecon1.sprite_index == sprLecon1Die{
 }
 if objLecon1.sprite_index == sprLecon1DownB3{
 	instance_change(objLecon1BDead,false)
-	instance_create_layer(objLecon1Dead.x-11, objLecon1Dead.y-30, "Drops", objMoney);
+	instance_create_layer(objLecon1BDead.x-11, objLecon1BDead.y-30, "Drops", objMoney);
 }
  

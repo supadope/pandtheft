@@ -16,3 +16,13 @@ if keyboard_check_released(ord("W")) {sprite_index = sprPandaFistIDLE;}
 if keyboard_check_released(ord("A")) {sprite_index = sprPandaFistIDLELeft;}
 if keyboard_check_released(ord("D")) {sprite_index = sprPandaFistIDLERight;}
 
+if global.incar1one = 1{
+	sprite_index = sprBlank
+}
+
+if place_meeting(x, y, objCar1)
+   {
+   while !place_meeting(x+sign(hInput * spd), y, objCar1)
+   x += sign(hInput * spd);
+   hInput = 0;
+   }

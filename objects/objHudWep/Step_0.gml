@@ -22,3 +22,14 @@ sprite_index = sprHudRifle
 x = objPandaRifle.x;
 y = objPandaRifle.y;
 }
+
+if instance_exists(objPandaMinigun){
+sprite_index = sprHudMinigun
+x = objPandaMinigun.x;
+y = objPandaMinigun.y;
+}
+
+if global.incar1one = 1 && instance_exists(objCar1){
+x = objCar1.x; 
+y = objCar1.y;
+}

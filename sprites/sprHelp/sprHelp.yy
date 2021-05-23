@@ -25,12 +25,10 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"d5a62093-a674-49bc-b317-afdf8559a5e1","path":"sprites/sprHelp/sprHelp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d5a62093-a674-49bc-b317-afdf8559a5e1","path":"sprites/sprHelp/sprHelp.yy",},"LayerId":{"name":"d65d23db-02e3-42f8-987c-5e4bed022eae","path":"sprites/sprHelp/sprHelp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"d5a62093-a674-49bc-b317-afdf8559a5e1","path":"sprites/sprHelp/sprHelp.yy",},"LayerId":{"name":"2b5ba38e-892c-40b8-8f2a-e816ab870bda","path":"sprites/sprHelp/sprHelp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"d5a62093-a674-49bc-b317-afdf8559a5e1","path":"sprites/sprHelp/sprHelp.yy",},"LayerId":{"name":"f1b68de4-d7a6-400f-976e-066001c05a51","path":"sprites/sprHelp/sprHelp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"d5a62093-a674-49bc-b317-afdf8559a5e1","path":"sprites/sprHelp/sprHelp.yy",},"LayerId":{"name":"369bd1d9-093c-45ba-8442-8cd9889f2f19","path":"sprites/sprHelp/sprHelp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"d5a62093-a674-49bc-b317-afdf8559a5e1","path":"sprites/sprHelp/sprHelp.yy",},"LayerId":{"name":"f171e561-5dda-4bf4-9a6d-7a50fe2c14c2","path":"sprites/sprHelp/sprHelp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"d5a62093-a674-49bc-b317-afdf8559a5e1","path":"sprites/sprHelp/sprHelp.yy",},"LayerId":{"name":"747a2005-2289-4d5e-a77f-ea3c1fe3dc6a","path":"sprites/sprHelp/sprHelp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"d5a62093-a674-49bc-b317-afdf8559a5e1","path":"sprites/sprHelp/sprHelp.yy",},"LayerId":{"name":"d65d23db-02e3-42f8-987c-5e4bed022eae","path":"sprites/sprHelp/sprHelp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"sprHelp","path":"sprites/sprHelp/sprHelp.yy",},"resourceVersion":"1.0","name":"d5a62093-a674-49bc-b317-afdf8559a5e1","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {

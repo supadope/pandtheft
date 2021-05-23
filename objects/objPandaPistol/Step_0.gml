@@ -16,3 +16,6 @@ if keyboard_check_released(ord("W")) {sprite_index = sprPandaPistolIDLE;}
 if keyboard_check_released(ord("A")) {sprite_index = sprPandaPistolIDLELeft;}
 if keyboard_check_released(ord("D")) {sprite_index = sprPandaPistolIDLERight;}
 
+if global.incar1one = 1{
+	sprite_index = sprBlank
+}

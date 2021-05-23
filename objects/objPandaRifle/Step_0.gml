@@ -76,3 +76,6 @@ if (objPandaRifle.sprite_index == sprPandaRifleShootLeft && place_meeting(x,y,ob
 	   }
 }
 }
+if global.incar1one = 1{
+	sprite_index = sprBlank
+}

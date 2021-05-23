@@ -77,3 +77,6 @@ if (objPandaSMG.sprite_index == sprPandaSMGShootLeft && place_meeting(x,y,objLec
 	   }
 }
 }
+if global.incar1one = 1{
+	sprite_index = sprBlank
+}
